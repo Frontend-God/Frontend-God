@@ -1,6 +1,6 @@
 ### ✨Senior Frontend Developer
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=FrontendGod0123.FrontendGod0123" />
 <img align="right" src="https://img.shields.io/github/followers/FrontendGod0123?label=Follow&style=social" />
 <h1 align="center"></h1>
@@ -38,14 +38,14 @@
     </tr>
 </table> -->
 
-<!-- <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
 
-<div> -->
+<div>
   
 
-<!-- Over the past 5 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br> -->
+Over the past 5 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>
 
-<!-- ### My highlight skills:
+### My highlight skills:
 
 ✔️ Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc. </br>
 ✔️ Developed front-end for a wide range of fully responsive webpages using Modern UI libraries</br>
@@ -55,7 +55,7 @@
 ✔️ Using Backend frameworks such as Node, Laravel, CodeIgniter, Django, etc. </br>
 ✔️ Worked with databases such as MySQL, Sqlite, MongoDB and so on </br>
 ✔️ Delivered high quality and user rich solutions on time </br>
-✔️ Worked in large development teams as a team leader </br> -->
+✔️ Worked in large development teams as a team leader </br>
 
 </div>
 
