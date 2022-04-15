@@ -38,12 +38,12 @@
     </tr>
 </table> -->
 
-<!-- <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
 
-<div> -->
+<div>
   
 
-<!-- Over the past 5 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br> -->
+Over the past 5 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>
 
 <!-- ### My highlight skills:
 
