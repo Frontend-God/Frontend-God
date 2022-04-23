@@ -1,6 +1,6 @@
 ### ✨Senior Frontend Developer
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Frontend-God.Frontend-God" />
 <img align="right" src="https://img.shields.io/github/followers/Frontend-God?label=Follow&style=social" />
 <h1 align="center"></h1>
