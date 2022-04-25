@@ -10,7 +10,7 @@
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frontend-God&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 </br>
-<!-- <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
     <tr>
         <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
@@ -36,7 +36,7 @@
         <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="100" alt="C"></td>
         <td><img src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"></td>
     </tr>
-</table> -->
+</table>
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
 
