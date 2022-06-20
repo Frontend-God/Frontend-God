@@ -38,7 +38,7 @@
     </tr>
 </table>
 
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2>
+<!-- <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">About Me</h2> -->
 
 <div>
   
